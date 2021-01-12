@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>GReeves Hugo Attempt!</title>
+    <link>http://example.org/</link>
+    <description>Recent content on GReeves Hugo Attempt!</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 27 Nov 2020 15:35:17 -0800</lastBuildDate>
+    
+	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>References</title>
+      <link>http://example.org/basics/thingstoknow/</link>
+      <pubDate>Sat, 14 Nov 2020 20:39:35 -0800</pubDate>
+      
+      <guid>http://example.org/basics/thingstoknow/</guid>
+      <description>Important Links  Here is some great Markdown syntax to follow!   Things you might remember from before! In markdown, the way to make tables is similar to when I made them for Isborne&amp;rsquo;s class on Overleaf.
+     Goals Description Priority     JAM Stack Learn what JAMStack is? There&amp;rsquo;s this Manning website that looks like it might be profitable Moderate     Things to play around with later!</description>
+    </item>
+    
+    <item>
+      <title>Resume</title>
+      <link>http://example.org/basics/xp2/</link>
+      <pubDate>Sat, 14 Nov 2020 17:31:07 -0800</pubDate>
+      
+      <guid>http://example.org/basics/xp2/</guid>
+      <description>I dont know :(!!!!!</description>
+    </item>
+    
+    <item>
+      <title>Portfolio</title>
+      <link>http://example.org/basics/xp1/</link>
+      <pubDate>Sat, 14 Nov 2020 16:56:57 -0800</pubDate>
+      
+      <guid>http://example.org/basics/xp1/</guid>
+      <description>Top Here is my attempt at building a page
+Bottom Is this working as intended?</description>
+    </item>
+    
+    <item>
+      <title>Get things done!</title>
+      <link>http://example.org/basics/first-content/</link>
+      <pubDate>Sat, 14 Nov 2020 12:47:40 -0800</pubDate>
+      
+      <guid>http://example.org/basics/first-content/</guid>
+      <description>CRITICAL!   Currently unable to make blog Chapter work :/
+  Homepage needs to be established. This might be solvable with the help of looking into how JS injections work?
+  Need to learn the technology still. LOOK AT YOUR GOALS AND TODO LIST!
+   Resolution!  Issue #1
+ I don&amp;rsquo;t understand why only the first 2 pages i created are working but none of my other pages!</description>
+    </item>
+    
+  </channel>
+</rss>

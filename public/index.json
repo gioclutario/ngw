@@ -1,0 +1,106 @@
+[
+{
+	"uri": "http://example.org/basics/",
+	"title": "Beginning!",
+	"tags": [],
+	"description": "",
+	"content": "Chapter 1 This Page Is Necessary by Default! Lorem Ipsum. What?\n"
+},
+{
+	"uri": "http://example.org/writeups/",
+	"title": "WriteUps",
+	"tags": [],
+	"description": "",
+	"content": "Chapter 2 Welcome to my blog! I don\u0026rsquo;t know why blog wouldn\u0026rsquo;t work as a title header so i\u0026rsquo;m calling this my write Ups.\n"
+},
+{
+	"uri": "http://example.org/portfolio/",
+	"title": "Portfolio",
+	"tags": [],
+	"description": "",
+	"content": "Chapter 3 Some Chapter title Lorem Ipsum.\n"
+},
+{
+	"uri": "http://example.org/jobnotes/",
+	"title": "JobNotes",
+	"tags": [],
+	"description": "",
+	"content": "Chapter X Some Chapter title Lorem Ipsum.\n"
+},
+{
+	"uri": "http://example.org/contacts/",
+	"title": "Contacts",
+	"tags": [],
+	"description": "",
+	"content": "Chapter 4 Contact Information! Lorem Ipsum.\n"
+},
+{
+	"uri": "http://example.org/",
+	"title": "GReeves Hugo Attempt!",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "http://example.org/basics/second-content/second-first-content/",
+	"title": "Second First Content",
+	"tags": [],
+	"description": "",
+	"content": "Working as intended!\n"
+},
+{
+	"uri": "http://example.org/writeups/thoughts/",
+	"title": "Thoughts",
+	"tags": [],
+	"description": "",
+	"content": "Forefront Questions    Thought Result Date Status Priority     For some reason, blog won\u0026rsquo;t work as a chapter header. I don\u0026rsquo;t know if it\u0026rsquo;s because there\u0026rsquo;s an issue with the keyword or not but it\u0026rsquo;s currently not useable? No findings yet 11.14.20 Researching Low   Where does the database management/linking come in to play with Hugo? No findings yet 11.14.20 Experimenting Moderate     Stray Questions  What do I want to make out of this website?  What limits does this website have?   What kind of functions do I want to implement into my websites? Markdown is quite easy to start off with but I can imagine will become harder later on?   For Priority, the available keys are Low,Moderate,High.\nFor Status, the available keys are Research,Experimenting,Solved?.\n "
+},
+{
+	"uri": "http://example.org/basics/thingstoknow/",
+	"title": "References",
+	"tags": [],
+	"description": "",
+	"content": "Important Links  Here is some great Markdown syntax to follow!   Things you might remember from before! In markdown, the way to make tables is similar to when I made them for Isborne\u0026rsquo;s class on Overleaf.\n     Goals Description Priority     JAM Stack Learn what JAMStack is? There\u0026rsquo;s this Manning website that looks like it might be profitable Moderate     Things to play around with later! To link content do the following:\nThis will render to: Link\n"
+},
+{
+	"uri": "http://example.org/basics/xp2/",
+	"title": "Resume",
+	"tags": [],
+	"description": "",
+	"content": "I dont know :(!!!!!\n"
+},
+{
+	"uri": "http://example.org/basics/xp1/",
+	"title": "Portfolio",
+	"tags": [],
+	"description": "",
+	"content": "Top Here is my attempt at building a page\nBottom Is this working as intended?\n"
+},
+{
+	"uri": "http://example.org/basics/second-content/",
+	"title": "Weird Change 1",
+	"tags": [],
+	"description": "",
+	"content": "So this works? But xp1 doesn\u0026rsquo;t? You should get this working soon!\n"
+},
+{
+	"uri": "http://example.org/basics/first-content/",
+	"title": "Get things done!",
+	"tags": [],
+	"description": "",
+	"content": "CRITICAL!   Currently unable to make blog Chapter work :/\n  Homepage needs to be established. This might be solvable with the help of looking into how JS injections work?\n  Need to learn the technology still. LOOK AT YOUR GOALS AND TODO LIST!\n   Resolution!  Issue #1\n I don\u0026rsquo;t understand why only the first 2 pages i created are working but none of my other pages! I\u0026rsquo;m assuming that it is related to the default settings so I will have to explore that! In the mean time, panic! But not really.\n Solution: turning draft=false in the markdown headers allowed the site to be present again. This could be due to the fact that i\u0026rsquo;m currently in developer mode so that way it\u0026rsquo;s not focusing on pages that are meant for deployment? Not sure - will need to conduct some thorough reserach on this?\nFollow Up: Look into why this matters? I think it\u0026rsquo;s related to config files or maybe development/deployment?\n  Goals   Need to Learn how Markdown works\n  Need to make pages outside of \u0026ldquo;basics\u0026rdquo; working :(\n  Draft up a portfolio concept design\n  Start exploring what the proper best practices are!\n   TODO LIST!   Keep reading through Learn-theme-Netlify\n  Start exploring themes outside of the learn!\n  Learn what JAM Stack is?\n  Outline portfolio materials\n  "
+},
+{
+	"uri": "http://example.org/categories/",
+	"title": "Categories",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "http://example.org/tags/",
+	"title": "Tags",
+	"tags": [],
+	"description": "",
+	"content": ""
+}]

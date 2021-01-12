@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://example.org/basics/</loc>
+    <lastmod>2020-11-14T12:47:08-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/writeups/</loc>
+    <lastmod>2020-11-14T21:30:46-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/portfolio/</loc>
+    <lastmod>2020-11-14T21:29:11-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/jobnotes/</loc>
+    <lastmod>2020-11-27T15:35:17-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/contacts/</loc>
+    <lastmod>2020-11-14T21:16:48-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/</loc>
+    <lastmod>2020-11-27T15:35:17-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/basics/second-content/second-first-content/</loc>
+    <lastmod>2020-11-14T22:50:46-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/writeups/thoughts/</loc>
+    <lastmod>2020-11-14T21:35:18-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/basics/thingstoknow/</loc>
+    <lastmod>2020-11-14T20:39:35-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/basics/xp2/</loc>
+    <lastmod>2020-11-14T17:31:07-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/basics/xp1/</loc>
+    <lastmod>2020-11-14T16:56:57-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/basics/second-content/</loc>
+    <lastmod>2020-11-14T12:47:47-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/basics/first-content/</loc>
+    <lastmod>2020-11-14T12:47:40-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/</loc>
+  </url>
+  
+</urlset>
